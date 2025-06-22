@@ -18,3 +18,6 @@ Los resultados de la cuantificación son los siguientes:
 Numero de parametros modelo: 124,439,808
 Memory footprint FP32: 0.51 GB
 Memory footprint FB16: 0.26 GB
+
+Abra la aplicación con el siguiente link:
+https://c3cd41c704cce609e0.gradio.live
