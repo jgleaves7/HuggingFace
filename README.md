@@ -1,4 +1,18 @@
 # Modelo Generador de Texto
+---
+title: Prueba AI Engineer Gradio
+emoji: 😻
+colorFrom: green
+colorTo: indigo
+sdk: gradio
+sdk_version: 5.34.2
+app_file: app.py
+pinned: false
+license: creativeml-openrail-m
+short_description: Prueba Técnica AI Engineer Asdeporte
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
 El siguiente programa usa el modelo GPT2 en su función de generador de text. Es decir a partir de una entrada de texto el modelo completará la frase o historia previa.
 
@@ -20,4 +34,4 @@ Memory footprint FP32: 0.51 GB
 Memory footprint FB16: 0.26 GB
 
 Abra la aplicación con el siguiente link:
-https://c3cd41c704cce609e0.gradio.live
+https://huggingface.co/spaces/jgleaves7/prueba_AI_engineer_Gradio
